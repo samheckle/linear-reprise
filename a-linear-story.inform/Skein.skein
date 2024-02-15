@@ -1,0 +1,3998 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">a-linear-story</command>
+        <result xml:space="preserve">
+
+
+Solve the riddle in each memory to chart your path.
+
+Contract
+Do you accept these terms?
+
+y/n? &gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+            <child nodeId="node-1323"></child>
+            <child nodeId="node-1320"></child>
+            <child nodeId="node-1313"></child>
+            <child nodeId="node-1285"></child>
+            <child nodeId="node-1275"></child>
+            <child nodeId="node-1105"></child>
+            <child nodeId="node-1100"></child>
+            <child nodeId="node-1091"></child>
+            <child nodeId="node-1069"></child>
+            <child nodeId="node-1370"></child>
+            <child nodeId="node-1040"></child>
+            <child nodeId="node-1039"></child>
+            <child nodeId="node-1029"></child>
+            <child nodeId="node-1019"></child>
+            <child nodeId="node-1004"></child>
+            <child nodeId="node-1003"></child>
+            <child nodeId="node-1373"></child>
+            <child nodeId="node-1350"></child>
+        </children>
+    </item>
+    <item nodeId="node-1350">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1381"></child>
+            <child nodeId="node-1368"></child>
+            <child nodeId="node-1358"></child>
+            <child nodeId="node-1354"></child>
+            <child nodeId="node-1351"></child>
+            <child nodeId="node-1356"></child>
+        </children>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">y</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1351">
+        <command xml:space="preserve">no</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1352"></child>
+        </children>
+    </item>
+    <item nodeId="node-1352">
+        <command xml:space="preserve">i accept</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1354">
+        <command xml:space="preserve">go to death</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1358">
+        <command xml:space="preserve">agree</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1359"></child>
+        </children>
+    </item>
+    <item nodeId="node-1359">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1360"></child>
+        </children>
+    </item>
+    <item nodeId="node-1360">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">It is done.
+
+You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1368">
+        <command xml:space="preserve">'</command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1369"></child>
+        </children>
+    </item>
+    <item nodeId="node-1369">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">It is done.
+
+You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+That was a rhetorical question.
+
+y/n? &gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1381">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1382"></child>
+        </children>
+    </item>
+    <item nodeId="node-1382">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">It is done.
+
+You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+That was a rhetorical question.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1383"></child>
+        </children>
+    </item>
+    <item nodeId="node-1383">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1384"></child>
+        </children>
+    </item>
+    <item nodeId="node-1384">
+        <command xml:space="preserve">no</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1385"></child>
+        </children>
+    </item>
+    <item nodeId="node-1385">
+        <command xml:space="preserve">retrace steps</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1386"></child>
+        </children>
+    </item>
+    <item nodeId="node-1386">
+        <command xml:space="preserve">remember</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1387"></child>
+        </children>
+    </item>
+    <item nodeId="node-1387">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1388"></child>
+        </children>
+    </item>
+    <item nodeId="node-1388">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1389"></child>
+        </children>
+    </item>
+    <item nodeId="node-1389">
+        <command xml:space="preserve">go death</command>
+        <result xml:space="preserve">That doesn't make sense.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1390"></child>
+        </children>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">death</command>
+        <result xml:space="preserve">That doesn't make sense.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">to death</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1392"></child>
+        </children>
+    </item>
+    <item nodeId="node-1392">
+        <command xml:space="preserve">go Death</command>
+        <result xml:space="preserve">That doesn't make sense.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1393"></child>
+        </children>
+    </item>
+    <item nodeId="node-1393">
+        <command xml:space="preserve">go to Death</command>
+        <result xml:space="preserve">That doesn't make sense.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1394"></child>
+        </children>
+    </item>
+    <item nodeId="node-1394">
+        <command xml:space="preserve">clear</command>
+        <result xml:space="preserve">What do you want to clear?
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1395"></child>
+        </children>
+    </item>
+    <item nodeId="node-1395">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1396"></child>
+        </children>
+    </item>
+    <item nodeId="node-1396">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1397"></child>
+        </children>
+    </item>
+    <item nodeId="node-1397">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1398"></child>
+        </children>
+    </item>
+    <item nodeId="node-1398">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">It seems that you have come to a conclusion here again. You found your Big Idea!
+
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1399"></child>
+        </children>
+    </item>
+    <item nodeId="node-1399">
+        <command xml:space="preserve">go to death</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You re-emerged from the revelation. 
+
+You think you see a gnarled old redwood tree out here.
+
+It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1400"></child>
+        </children>
+    </item>
+    <item nodeId="node-1400">
+        <command xml:space="preserve">help</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1373">
+        <command xml:space="preserve">y</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1374"></child>
+        </children>
+    </item>
+    <item nodeId="node-1374">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1375"></child>
+        </children>
+    </item>
+    <item nodeId="node-1375">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">It is done.
+
+You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+That was a rhetorical question.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1379"></child>
+        </children>
+    </item>
+    <item nodeId="node-1379">
+        <command xml:space="preserve">yes</command>
+        <result xml:space="preserve">That was a rhetorical question.
+
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">x gnarled old redwood tree</command>
+        <result xml:space="preserve">You see nothing special about the gnarled old redwood tree.
+
+It reminds you to be rooted, to not let your thoughts get away from you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Thoughts drift in and out. It's almost like meditation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+            <child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Thoughts drift in and out. It's almost like meditation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Thoughts drift in and out. It's almost like meditation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thought patterns are doing no good here. You did stem from some type of thinking, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Hmmmmm is seems that you have come to a conclusion here. A Revelation perhaps?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thought patterns are doing no good here. You did stem from some type of thinking, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+            <child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Hmmmmm is seems that you have come to a conclusion here. A Revelation perhaps?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+It seems that you have come to a conclusion here again. You found your Big Idea!
+
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">A worthy endeavor. Is thinking embodied ever? How do we map the thought process? How does creativity happen? 
+
+ Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+            <child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">spiraling down</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thought patterns are doing no good here. You did stem from some type of thinking, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">Each idea seems to be worth exploring. Brainstorming is always a fruitful adventure that is worth iterating on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">x idea</command>
+        <result xml:space="preserve">Each idea seems to be worth exploring. Brainstorming is always a fruitful adventure that is worth iterating on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">But you're already in the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems there is no logic here. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+            <child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">search</command>
+        <result xml:space="preserve">What do you want to search?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">search idea</command>
+        <result xml:space="preserve">The idea is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">showme</command>
+        <result xml:space="preserve">End - room
+    yourself - person
+    gnarled old redwood tree
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">retrace steps</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+            <child nodeId="node-1059"></child>
+            <child nodeId="node-1057"></child>
+            <child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+            <child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+            <child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">wait awhi.e</command>
+        <result xml:space="preserve">I only understood you as far as wanting to wait.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">meditate</command>
+        <result xml:space="preserve">Each thought passes you by, is there a way to enter them?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">Hmmmmm is seems that you have come to a conclusion here. A Revelation perhaps?
+
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+You ruminated for a moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Hmmmmm is seems that you have come to a conclusion here. A Revelation perhaps?
+
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thought patterns are doing no good here. You did stem from some type of thinking, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">break the pattern</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">Each idea seems to be worth exploring. Brainstorming is always a fruitful adventure that is worth iterating on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">But you're already in the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">retrace steps</command>
+        <result xml:space="preserve">There are no footsteps to follow.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">go death</command>
+        <result xml:space="preserve">
+ You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">go back</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">go death</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">lok</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+You re-emerged from the revelation. It didn't have to be this way either maybe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">(the gnarled old redwood tree)
+You see nothing special about the gnarled old redwood tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+You re-emerged from the revelation. It didn't have to be this way either maybe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">(the gnarled old redwood tree)
+You see nothing special about the gnarled old redwood tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+You re-emerged from the revelation. It didn't have to be this way either maybe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1370">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1371"></child>
+        </children>
+    </item>
+    <item nodeId="node-1371">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">Please answer yes or no.&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1372"></child>
+        </children>
+    </item>
+    <item nodeId="node-1372">
+        <command xml:space="preserve">no</command>
+        <result xml:space="preserve">You already agreed to a contract.
+
+You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+You think you see a gnarled old redwood tree out here.
+
+ It didn't have to be this way. Maybe you can retrace your steps.
+
+You can't go that way.
+
+y/n? &gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+Emerging from the Revelation, the journey finished, you take a deep breath. A seemingly endless labyrinth of thinking. A pattern only broken by Death itself. 
+
+It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+            <child nodeId="node-1086"></child>
+            <child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">journey</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Revelation
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Crossing
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">The idea is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">go inside idea</command>
+        <result xml:space="preserve">thinking...
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+        </children>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts (in the idea)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">You would have to get out of the idea first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts (in the idea)
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">get out of idea</command>
+        <result xml:space="preserve">I only understood you as far as wanting to get outside.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">take idea</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">The idea is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">take idea</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">go to revelation</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">go to death</command>
+        <result xml:space="preserve">you think
+Death
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">(the gnarled old redwood tree)
+You see nothing special about the gnarled old redwood tree.
+
+Penny is the same woman who stepped on your toe in the buffet line. The third time, she blurted, "You have big shoes, don't you?"
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+            <child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">search</command>
+        <result xml:space="preserve">(the gnarled old redwood tree)
+You find nothing of interest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">look gnarled old redwood tree</command>
+        <result xml:space="preserve">You see nothing special about the gnarled old redwood tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">go to revelation</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+            <child nodeId="node-1093"></child>
+            <child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">go to death</command>
+        <result xml:space="preserve">
+ You think about how Death finally came to you, but it seems you came to Death.
+
+Death
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">go to birth</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">to revelation</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">go spiraling</command>
+        <result xml:space="preserve">That doesn't make sense.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+
+
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems there is no logic here. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1263"></child>
+            <child nodeId="node-1260"></child>
+            <child nodeId="node-1249"></child>
+            <child nodeId="node-1245"></child>
+            <child nodeId="node-1237"></child>
+            <child nodeId="node-1161"></child>
+            <child nodeId="node-1156"></child>
+            <child nodeId="node-1123"></child>
+            <child nodeId="node-1118"></child>
+            <child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+            <child nodeId="node-1112"></child>
+            <child nodeId="node-1110"></child>
+            <child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Time passes.
+
+It seems that you have come to a conclusion here again. You found your Big Idea!
+
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">What a good idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">t</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+
+
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">spiraling</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems there is no logic here. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">break the pattern</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">go spiraling</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thought patterns are doing no good here. You did stem from some type of thinking, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">go back</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">revelation</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">go to revelation</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Death
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">enter revelation</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+            <child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">go decide</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">go Decision</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Naming
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">go birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+End
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">End
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">lookend</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">look end</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">end the story</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+End
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">
+End
+You re-emerged from the revelation. It didn't have to be this way either maybe.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">go decide</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Naming
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">go birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">
+End
+You are reborn.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">go sprial</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1160"></child>
+        </children>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+Thinking...my heart isn't full its just anxious and worried about the future all the time. is there something beyond this?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1235"></child>
+            <child nodeId="node-1233"></child>
+            <child nodeId="node-1182"></child>
+            <child nodeId="node-1173"></child>
+            <child nodeId="node-1165"></child>
+            <child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+            <child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">You ruminated for a moment.
+
+Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">Standing here is kind of boring, should you meditate?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">wait awhile</command>
+        <result xml:space="preserve">Hmmmmm is seems that you have come to a conclusion here. A Revelation perhaps?
+
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+You ruminated for a moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">wait</command>
+        <result xml:space="preserve">Thoughts drift in and out. It's almost like meditation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">mediate</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">meditate</command>
+        <result xml:space="preserve">Each thought passes you by, is there a way to enter them?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">What a good idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">go thoughts</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">linger on decision</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">A worthy endeavor. Is thinking embodied ever? How do we map the thought process? How does creativity happen?
+
+ Time passes.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">think about it further ahead</command>
+        <result xml:space="preserve">I only understood you as far as wanting to think.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">go further ahead</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">go ahead</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+            <child nodeId="node-1223"></child>
+            <child nodeId="node-1219"></child>
+            <child nodeId="node-1210"></child>
+            <child nodeId="node-1208"></child>
+            <child nodeId="node-1199"></child>
+            <child nodeId="node-1195"></child>
+            <child nodeId="node-1185"></child>
+            <child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">Each idea seems to be worth exploring. Brainstorming is always a fruitful adventure that is worth iterating on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">decide</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you are living in your decision. Did you want to think about that choice again?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">choose</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+        </children>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">chose</command>
+        <result xml:space="preserve">
+Choice
+This or that. You have options. 
+
+You need to decide to continue. 
+
+Your parents made a choice too, a choice in naming you. When you emerged from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1190"></child>
+        </children>
+    </item>
+    <item nodeId="node-1190">
+        <command xml:space="preserve">decide</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you are living in your decision. Did you want to think about that choice again?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1191"></child>
+        </children>
+    </item>
+    <item nodeId="node-1191">
+        <command xml:space="preserve">chose</command>
+        <result xml:space="preserve">
+Choice
+This or that. You have options. 
+
+You need to decide to continue. 
+
+Your parents made a choice too, a choice in naming you. When you emerged from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1192"></child>
+        </children>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The birth of you. The beginning of a new story. You have some choices to be made in the outside world. 
+
+ You feel a sudden revelation. Did you find your Big Idea after all this time?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1193"></child>
+        </children>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+Your last conclusion. You found your big idea, finally. You should embrace the eternal slumber. But you can return to spiraling if you think it necessary. Some journeys are meant to be done more than once.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">embrace the eternal slumber</command>
+        <result xml:space="preserve">You are reborn.
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">Maybe you need to be inside the idea to have it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+        </children>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">go idea</command>
+        <result xml:space="preserve">thinking...about choices
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts (in the idea)
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+        </children>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">go ahead</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">go further ahead</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">think about it further ahead</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Choice
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1207"></child>
+        </children>
+    </item>
+    <item nodeId="node-1207">
+        <command xml:space="preserve">go birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1208">
+        <command xml:space="preserve">go thought</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1209"></child>
+        </children>
+    </item>
+    <item nodeId="node-1209">
+        <command xml:space="preserve">go thoughts</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">go decision</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1211"></child>
+        </children>
+    </item>
+    <item nodeId="node-1211">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+        </children>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Naming
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+        </children>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve">go birth</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve">go in</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1216"></child>
+        </children>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1217"></child>
+        </children>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">go out</command>
+        <result xml:space="preserve">
+End
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">go decide</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1220"></child>
+        </children>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">go to Naming</command>
+        <result xml:space="preserve">
+Naming
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">go to birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">go to name</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">decide</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+        </children>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">chose</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">go choose</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">go choice</command>
+        <result xml:space="preserve">
+Choice
+This or that. You have options. 
+
+You need to decide to continue. 
+
+Your parents made a choice too, a choice in naming you. When you emerged from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+        </children>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">decide</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1229"></child>
+        </children>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+Thinking...my heart isn't full its just anxious and worried about the future all the time. is there something beyond this?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">go spiraling</command>
+        <result xml:space="preserve">You're already in Spiraling.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+        </children>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">go to revelation</command>
+        <result xml:space="preserve">up Revelation
+
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">break the pattern</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">It isn't safe to do that here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Crossing
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">thinking...
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">wow
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1243"></child>
+        </children>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">wow2thinking...
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">go death</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You think you see a gnarled old redwood tree out here.
+
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1246"></child>
+        </children>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You think you see a gnarled old redwood tree out here.
+
+You re-emerged from the revelation. It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+        </children>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1251"></child>
+        </children>
+    </item>
+    <item nodeId="node-1251">
+        <command xml:space="preserve">go spiraling</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1252"></child>
+        </children>
+    </item>
+    <item nodeId="node-1252">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1253"></child>
+        </children>
+    </item>
+    <item nodeId="node-1253">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1254"></child>
+        </children>
+    </item>
+    <item nodeId="node-1254">
+        <command xml:space="preserve">spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1255"></child>
+        </children>
+    </item>
+    <item nodeId="node-1255">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1256"></child>
+        </children>
+    </item>
+    <item nodeId="node-1256">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1257"></child>
+        </children>
+    </item>
+    <item nodeId="node-1257">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+
+
+You re-emerged from the revelation. 
+
+You think you see a gnarled old redwood tree out here.
+
+It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1258"></child>
+        </children>
+    </item>
+    <item nodeId="node-1258">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1259"></child>
+        </children>
+    </item>
+    <item nodeId="node-1259">
+        <command xml:space="preserve">go spiraling</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1260">
+        <command xml:space="preserve">end</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You re-emerged from the revelation. 
+
+You think you see a gnarled old redwood tree out here.
+
+It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1261"></child>
+        </children>
+    </item>
+    <item nodeId="node-1261">
+        <command xml:space="preserve">revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1262"></child>
+        </children>
+    </item>
+    <item nodeId="node-1262">
+        <command xml:space="preserve">embrace the eternal slumber</command>
+        <result xml:space="preserve">You think about how Death finally got you, but it seems you came to Death first.
+
+Death
+You re-emerged from the revelation. 
+
+You think you see a gnarled old redwood tree out here.
+
+It didn't have to be this way either. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1263">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1264"></child>
+        </children>
+    </item>
+    <item nodeId="node-1264">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1265"></child>
+        </children>
+    </item>
+    <item nodeId="node-1265">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. You came out from logical thinking, but it seems never ending here now. Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1266"></child>
+        </children>
+    </item>
+    <item nodeId="node-1266">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1267"></child>
+        </children>
+    </item>
+    <item nodeId="node-1267">
+        <command xml:space="preserve">go decision</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1268"></child>
+        </children>
+    </item>
+    <item nodeId="node-1268">
+        <command xml:space="preserve">go naming</command>
+        <result xml:space="preserve">
+Thoughts
+Thinking thoughts hard. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you just came from as well.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">go decision</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead, or you can head back up to the Naming.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Naming
+Emerging from birth you were set for something. Was your name a blessing or a curse?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1271"></child>
+        </children>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">go birth</command>
+        <result xml:space="preserve">
+Birth
+The birth of an idea. The beginning of a new story. You can go be named, but you feel a sudden revelation.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">Which do you mean, the down or the inside?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Revelation
+What's the big idea? It seems ages since you came to your last conclusion. You can end it here. Or you can go back to the spiral.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">go end</command>
+        <result xml:space="preserve">
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">go revelatio</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1277"></child>
+        </children>
+    </item>
+    <item nodeId="node-1277">
+        <command xml:space="preserve">go thoughts</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1278"></child>
+        </children>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...my heart isn't full its just anxious and worried about the future all the time. is there something beyond this?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...how do i handle obsession? is there any way to make it easier to bear? how do normal people do this? 
+
+what is normal even?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thoughts (in the idea)
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">look idea</command>
+        <result xml:space="preserve">Each idea seems to be worth exploring. Brainstorming is always a fruitful adventure that is worth iterating on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...have i even had an original thought ever in my life?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">linger on the descision</command>
+        <result xml:space="preserve">I only understood you as far as wanting to linger.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1301"></child>
+            <child nodeId="node-1287"></child>
+        </children>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1288"></child>
+        </children>
+    </item>
+    <item nodeId="node-1288">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1289"></child>
+        </children>
+    </item>
+    <item nodeId="node-1289">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">thinking...
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1290"></child>
+        </children>
+    </item>
+    <item nodeId="node-1290">
+        <command xml:space="preserve">go out</command>
+        <result xml:space="preserve">You would have to get out of the idea first.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1291"></child>
+        </children>
+    </item>
+    <item nodeId="node-1291">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1292"></child>
+        </children>
+    </item>
+    <item nodeId="node-1292">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">wow
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1293"></child>
+        </children>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">enter idea</command>
+        <result xml:space="preserve">wow2
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">get out</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1297"></child>
+        </children>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Naming
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Birth
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1299"></child>
+        </children>
+    </item>
+    <item nodeId="node-1299">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Revelation
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1300"></child>
+        </children>
+    </item>
+    <item nodeId="node-1300">
+        <command xml:space="preserve">go out</command>
+        <result xml:space="preserve">
+End
+Emerging from the revelation, the journey finished, you take a deep breath. It didn't have to be this way. Maybe you can retrace your steps.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1301">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1302"></child>
+        </children>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+        </children>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1304"></child>
+        </children>
+    </item>
+    <item nodeId="node-1304">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1305"></child>
+        </children>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Decision
+Was this a great choice? At least you made one. You can think about it further ahead. You descended here from the choice that was presented to you, and now you must live in your decision.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1306"></child>
+        </children>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">think further ahead</command>
+        <result xml:space="preserve">I only understood you as far as wanting to think.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">further ahead</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1308"></child>
+        </children>
+    </item>
+    <item nodeId="node-1308">
+        <command xml:space="preserve">look further ahead</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1309"></child>
+        </children>
+    </item>
+    <item nodeId="node-1309">
+        <command xml:space="preserve">go further ahead</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1311"></child>
+        </children>
+    </item>
+    <item nodeId="node-1311">
+        <command xml:space="preserve">go further ahead</command>
+        <result xml:space="preserve">There is nothing ahead here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1312"></child>
+        </children>
+    </item>
+    <item nodeId="node-1312">
+        <command xml:space="preserve">go decide</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1313">
+        <command xml:space="preserve">go Revelation</command>
+        <result xml:space="preserve">
+Revelation
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1314"></child>
+        </children>
+    </item>
+    <item nodeId="node-1314">
+        <command xml:space="preserve">go Crossing</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1315"></child>
+        </children>
+    </item>
+    <item nodeId="node-1315">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Crossing
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1316"></child>
+        </children>
+    </item>
+    <item nodeId="node-1316">
+        <command xml:space="preserve">go End</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1317"></child>
+        </children>
+    </item>
+    <item nodeId="node-1317">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Thoughts
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1318"></child>
+        </children>
+    </item>
+    <item nodeId="node-1318">
+        <command xml:space="preserve">take idea</command>
+        <result xml:space="preserve">It's far too heavy to lift.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1319"></child>
+        </children>
+    </item>
+    <item nodeId="node-1319">
+        <command xml:space="preserve">what idea</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1320">
+        <command xml:space="preserve">enter revelation</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1322"></child>
+            <child nodeId="node-1321"></child>
+        </children>
+    </item>
+    <item nodeId="node-1321">
+        <command xml:space="preserve">showme</command>
+        <result xml:space="preserve">End - room
+    yourself - person
+    gnarled old redwood tree
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1322">
+        <command xml:space="preserve">enter Revelation</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">You need to be in a place with flow to do this.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">
+Revelation
+It seems ages since you came to your last conclusion. You had a big idea, but not sure where it ran off to. You can end it here, embracing the eternal slumber. You remembered spiraling down there earlier. Do you remember what you were feeling so anxious about?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1325"></child>
+        </children>
+    </item>
+    <item nodeId="node-1325">
+        <command xml:space="preserve">go spiral</command>
+        <result xml:space="preserve">
+Spiraling
+Round and round we go again. Your cyclical thoughts float around the room, taunting you. You did start spiraling from some type of idea, but it seems there you have no logic here. Is this healthy? To stay here, thinking the same thought over and over, unable to break the pattern?
+
+Maybe there is a revelation soon if you wait awhile.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1326"></child>
+        </children>
+    </item>
+    <item nodeId="node-1326">
+        <command xml:space="preserve">go thiknk</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">go think</command>
+        <result xml:space="preserve">
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...about choices. choices i made. choices that were taken from me.
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">You get out of the idea.
+
+Thoughts
+You hit the flow, entering a thoughtful space. Maybe if you looked into an idea you might be able to find something. You can linger on the decision you had made. 
+
+ You don't know if the choice was optional, something thrust upon you. You might end up spiraling, ruminating on the choices that you made. The choices that plague your mind.
+
+An idea floats around.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">brainstorm</command>
+        <result xml:space="preserve">Thinking...my heart isn't full its just anxious and worried about the future all the time. is there something beyond this?
+
+You get into the idea.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">ROOMS</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">go inside</command>
+        <result xml:space="preserve">
+Revelation
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">go outside</command>
+        <result xml:space="preserve">
+End
+The journey finished, you take a deep breath.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">go revelation</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">go Revelation</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
