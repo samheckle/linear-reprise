@@ -1,0 +1,87 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* height: 100vh; */
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+#content{
+    scroll-snap-type: y mandatory; 
+    margin-bottom: 50px;
+}
+p{
+    margin: 0;
+    flex-grow: 4;
+}
+.room{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    scroll-snap-align: end;
+}
+#death, #revelation, #spiral, #think, #decision, #choice, #birth {
+    display: none;
+}
+.room-title{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+.prompt{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.response{
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+/* #room-prompt-text{
+    display: inline;
+}
+#room-prompt i{
+    display: inline-block;
+    width: 1px;
+    height: 1em;
+    background-color: black;
+    animation: blink 1000ms infinite;
+    animation-timing-function: steps(2, jump-none);
+    opacity: 1;
+}
+@keyframes blink {
+	from { opacity: 1; }
+	to { opacity: 0; }
+} */
+label{
+    flex-shrink:1;
+}
+input, input:focus {
+    outline: none;
+    border: none;
+    flex-grow: 3;
+}
+
+@media (width >= 48em) {
+	/* when viewport size is 768px and above */
+    main{
+        width: 600px;
+    }
+    .ascii{
+        display: block;
+        font-size: .25em;
+        margin-top: 5em;
+        margin-bottom: 5em;
+        font-family: monospace;
+        width: 300px;
+        
+    }
+}
+@media (width < 48em) {
+	/* when viewport size is below 768px */
+}
