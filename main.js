@@ -41,6 +41,7 @@ let waiting = 0;
 let thoughts = 0;
 let insideIdea = false;
 let ending = false;
+let replay = false
 
 window.onload = () => {
   textInput = document.getElementById("contract-input-0");
@@ -226,6 +227,14 @@ function revelationResponses() {
   response.className = "response";
 
   responseCount[rooms[room]]++;
+  if(replay){
+    if(inputText.includes('yes')){
+      window.location.reload();
+    } 
+    else if(inputText.includes('no')){
+      window.location.href = "./end.html";
+    }
+  }
   if (inputText.includes("spiral")) {
     nextRoom = true;
     visits.revelation++;
@@ -243,7 +252,8 @@ function revelationResponses() {
     newText.innerHTML = "You are reborn";
     document.getElementById("death").appendChild(newText);
     document.getElementById("death").scrollIntoView();
-    repeatPrompt("end > ");
+    replay = true;
+    repeatPrompt("remember once more? > ");
   } else {
     response.innerHTML = "That doesn't work here.";
     document.getElementById(container).appendChild(response).async;
