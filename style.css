@@ -126,7 +126,7 @@ input, input:focus {
     .ascii{
         display: flex;
         justify-content: center;
-        font-size: .25em;
+        font-size: .1em;
         margin-top: .3em;
         margin-bottom: .5em;
         font-family: monospace;
