@@ -201,7 +201,14 @@ function deathResponses() {
 
   if (ending) {
     document.getElementById("death-text").innerHTML = "You are reborn.";
-    return;
+    if(replay){
+      if(inputText.includes('yes')){
+        window.location.reload();
+      } 
+      else if(inputText.includes('no')){
+        window.location.href = "./end.html";
+      }
+    }
   }
   if (inputText.includes("retrace") || inputText.includes("revelation")) {
     nextRoom = true;
@@ -227,14 +234,6 @@ function revelationResponses() {
   response.className = "response";
 
   responseCount[rooms[room]]++;
-  if(replay){
-    if(inputText.includes('yes')){
-      window.location.reload();
-    } 
-    else if(inputText.includes('no')){
-      window.location.href = "./end.html";
-    }
-  }
   if (inputText.includes("spiral")) {
     nextRoom = true;
     visits.revelation++;

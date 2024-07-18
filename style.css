@@ -7,6 +7,7 @@ body{
     font-family: monospace;
     display: flex;
     justify-content: center;
+    overflow-x: hidden;
 }
 nav{
     background-color: lightgrey;
@@ -105,4 +106,33 @@ input, input:focus {
 }
 @media (width < 48em) {
 	/* when viewport size is below 768px */
+    body{
+        overflow-x: hidden;
+    }
+    main, nav{
+        width: 100%;
+    }
+    main {
+        padding: 5px;
+    }
+    nav{
+        justify-content: space-around;
+    }
+    .room{
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 100%;
+    }
+    .ascii{
+        display: flex;
+        justify-content: center;
+        font-size: .25em;
+        margin-top: .3em;
+        margin-bottom: .5em;
+        font-family: monospace;
+        text-align: center;
+    }
+    .small-ascii{
+        max-width:50%;
+    }
 }
