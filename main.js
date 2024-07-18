@@ -132,6 +132,7 @@ function handleEnter(e) {
 function otherResponseHandler(inputText) {
   let response = document.createElement("div");
   response.className = "response";
+  inputText = inputText.toLowerCase()
   if (room != 1) {
     if (inputText.includes("steps")) {
       response.innerHTML = "There are no footsteps to follow.";
@@ -168,6 +169,7 @@ function contractResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
   responseCount[rooms[room]]++;
@@ -194,6 +196,7 @@ function deathResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
 
@@ -230,6 +233,7 @@ function revelationResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
 
@@ -265,6 +269,7 @@ function spiralResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
 
@@ -316,6 +321,7 @@ function thinkResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
 
@@ -393,6 +399,7 @@ function decideResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
   responseCount[rooms[room]]++;
@@ -424,6 +431,7 @@ function chooseResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
   responseCount[rooms[room]]++;
@@ -440,6 +448,7 @@ async function birthResponses() {
   let inputText = document.getElementById(
     `${container}-input-${responseCount[rooms[room]]}`
   ).value;
+  inputText = inputText.toLowerCase()
   let response = document.createElement("div");
   response.className = "response";
   responseCount[rooms[room]]++;
