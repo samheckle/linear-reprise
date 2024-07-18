@@ -8,6 +8,27 @@ body{
     display: flex;
     justify-content: center;
 }
+nav{
+    background-color: lightgrey;
+    position: absolute;
+    top:0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p > a {
+    color: white;
+    background-color: black;
+}
+.content > p {
+    margin-top: 10px;
+}
 #content{
     scroll-snap-type: y mandatory; 
     margin-bottom: 50px;
@@ -69,7 +90,7 @@ input, input:focus {
 
 @media (width >= 48em) {
 	/* when viewport size is 768px and above */
-    main{
+    main, nav{
         width: 600px;
     }
     .ascii{
