@@ -51,6 +51,17 @@ window.onload = () => {
   for (let i in inputs) {
     inputs[i].value = "";
   }
+
+  if(window.screen.width < 48*16){
+    let asciiText = document.getElementsByClassName('ascii')
+    for (let a = 0; a < 8; a++){
+      asciiText[a].innerHTML = ""
+      let i = document.createElement("img")
+      i.src = `./mobile-images/${a}.png`
+      asciiText[a].append(i)
+      console.log(a)
+    }
+  }
   // textInput.value = ''
   textInput.addEventListener("keyup", handleEnter);
 };

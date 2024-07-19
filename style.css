@@ -124,16 +124,11 @@ input, input:focus {
         width: 100%;
     }
     .ascii{
-        display: flex;
-        justify-content: center;
-        font-size: 3px;
-        margin-top: .3em;
-        margin-bottom: .5em;
-        font-family: monospace;
-        text-align: center;
         overflow-x: hidden;
+        overflow-y: hidden;
     }
-    .small-ascii{
-        max-width:50%;
+    .ascii img{
+        object-fit: cover;
+        max-width: 375px;
     }
 }
